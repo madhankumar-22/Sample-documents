@@ -1,0 +1,7 @@
+Business requirement:
+
+To build a chatbot for an educational website for the following functionalities.
+1. The bot should be able to gather the email addres, name and contact number of the customer.
+2. Bot will ask which course the customer is intrested in? based on that send email containing the syllabus of the course.
+3. After that in the background an email will be sent to the support team as well with customer details where the email id name and contact details along with the course syllabus will be sent. So, that support team can go head and answer the quires.
+4. Now this bot can answer all the FAQ's asked by the customers. Like what will be the course duration, who will be the mentor etc.,
